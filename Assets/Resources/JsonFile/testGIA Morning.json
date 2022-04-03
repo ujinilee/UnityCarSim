@@ -1,0 +1,52 @@
+{
+	"0": {
+		"ID": "GIA Morning",
+		"mass": 900,
+		"speed": 2,
+		"steering": 180,
+		"position": [
+			14.0,
+			25.59
+		]
+	},
+	"1": {
+		"ID": "GIA Morning",
+		"mass": 900,
+		"speed": 2,
+		"steering": 180,
+		"position": [
+			14.0,
+			23.59
+		]
+	},
+	"2": {
+		"ID": "GIA Morning",
+		"mass": 900,
+		"speed": 2,
+		"steering": 180,
+		"position": [
+			14.0,
+			21.59
+		]
+	},
+	"3": {
+		"ID": "GIA Morning",
+		"mass": 900,
+		"speed": 2,
+		"steering": 180,
+		"position": [
+			14.0,
+			19.59
+		]
+	},
+	"4": {
+		"ID": "GIA Morning",
+		"mass": 900,
+		"speed": 0.5,
+		"steering": 180,
+		"position": [
+			14.0,
+			17.59
+		]
+	}
+}
