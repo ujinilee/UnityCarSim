@@ -19,6 +19,9 @@ TagManager:
   - 10
   - 11
   - 12
+  - Barrier
+  - NeighboringVehicle
+  - Pedestrian
   layers:
   - Default
   - TransparentFX

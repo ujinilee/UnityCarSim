@@ -12,7 +12,7 @@ public class CalDistance : MonoBehaviour
     void Update()
     {
         CarDistance = Vector3.Distance(Car1.transform.position, Car2.transform.position);
-        Debug.Log("두 차 간의 거리"+CarDistance);
+        //Debug.Log("두 차 간의 거리"+CarDistance);
         
         /*if (CarDistance <= 60)
         {
